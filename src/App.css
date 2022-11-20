@@ -1,0 +1,13 @@
+/* 
+.App{
+    text-align: center;
+    justify-content: space-around;
+    /* display:flex; 
+    background-color: rgb(5, 23, 29);
+    color: white;
+} 
+*/
+
+.bg-dark {
+    background-color: #30b116!important;
+}
